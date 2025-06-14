@@ -17,6 +17,6 @@ Hi, Kshitij Sharma <br>🚀 Full-stack Developer | MERN Stack <br>🎯 Job Seeke
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kshitijsharma123&icon=8&color=0)](https://visitcount.itsvg.in)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kshitijsharma123)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
