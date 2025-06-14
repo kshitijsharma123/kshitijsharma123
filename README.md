@@ -12,8 +12,6 @@ Hi, Kshitij Sharma <br>🚀 Full-stack Developer | MERN Stack <br>🎯 Job Seeke
 ![](https://nirzak-streak-stats.vercel.app/?user=kshitijsharma123&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijsharma123&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kshitijsharma123l&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
